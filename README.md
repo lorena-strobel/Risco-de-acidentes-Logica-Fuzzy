@@ -1,7 +1,7 @@
 # Risco-de-acidentes-Logica-Fuzzy
 
 ## Descrição do projeto
-Este projeto tem como objetivo desenvolver um sistema especialista baseado em Lógica Fuzzy para avaliar o risco de ocorrência de acidentes de trânsito.
+Este projeto tem como objetivo desenvolver um sistema especialista baseado em Lógica Fuzzy para avaliar o risco de ocorrência de acidentes de trânsito especialemnte me rodovias.
 
 O sistema utiliza informações relacionadas às condições de condução, como velocidade do veículo, condição da pista e visibilidade, para estimar o nível de risco de acidente.
 
