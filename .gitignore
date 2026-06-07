@@ -9,10 +9,12 @@ __pycache__/
 
 # Virtual Environment
 venv/
+.venv/
 .env/
 
 # VS Code
 .vscode/
+.cursorrules
 
 # Sistema Operacional
 .DS_Store
